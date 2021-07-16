@@ -8,6 +8,8 @@ import ToDoListScreen from './src/ToDoList';
 
 <HomeScreen />;
 
+<ToDoListScreen />;
+
 <ProfileScreen />;
 
 const Tab = createBottomTabNavigator();
